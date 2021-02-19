@@ -1,9 +1,12 @@
 # Nest On Openhab - Step-By Step Guide
-## Enabling Google SDM API with Nest Device Access Binding
 
-You can use the [editor on GitHub](https://github.com/dschoepel/NestOnOpenhab/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Google announced their [Device Access Program](https://developers.google.com/nest/device-access) (September 2020) that allows users to access, control, and manage Google Nest devices using the Smart Device Management (SDM) API. SDM is replacement for the [Works With Nest](https://blog.google/products/google-nest/updates-works-with-nest/) program that was "retired" August 31, 2019 and no longer supported by Google as part of their acquisition of Nest.   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This guide is intended to document the steps needed to enable this this API so that it can be connected to the [NestDeviceAcces Binding](https://github.com/bhigg-code/openhab-addons/tree/dev/bundles/org.openhab.binding.nestdeviceaccess).
+
+## Enabling the Google SDM API with Nest Device Access Binding
+
+
 
 ### Markdown
 
