@@ -6,7 +6,7 @@ This guide is intended to document the steps needed to enable this this API so t
 
 ## Enabling the Google SDM API with Nest Device Access Binding Consideratins
 
-1. In order to use the SDM API, you will need to enable access to each of your supported devices.  If you are currently using the OpenHab Nest binding and "Works With Nest" to connect your devices to openHab, you would need to leave that program and migrate your Nest account to a Google account (i.e. your devices to the Google account).  
+- In order to use the SDM API, you will need to enable access to each of your supported devices.  If you are currently using the OpenHab Nest binding and "Works With Nest" to connect your devices to openHab, you would need to leave that program and migrate your Nest account to a Google account (i.e. your devices to the Google account).  
 
 ![Supported Devices](/doc/NestSupportedDevices.jpg)
 **Note:** As of this writing, supported Nest devices do not include Nest Protects. 
