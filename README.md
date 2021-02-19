@@ -1,4 +1,5 @@
-## Nest On Openhab
+# Nest On Openhab - Step-By Step Guide
+## Enabling Google SDM API with Nest Device Access Binding
 
 You can use the [editor on GitHub](https://github.com/dschoepel/NestOnOpenhab/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
