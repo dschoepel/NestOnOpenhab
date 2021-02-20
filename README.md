@@ -15,10 +15,12 @@ This guide is intended to document the steps needed to enable this API so that i
 | Read state and change thermostat modes and setpoints. | Access camera livestreams and camera events | Know when the doorbell is pressed and see the related camera snapshot. | Access camera features of the display, such as livestreams and camera events. |
 | [Thermostat guide](https://developers.google.com/nest/device-access/api/thermostat) | [Camera guide](https://developers.google.com/nest/device-access/api/camera) | [Doorbell guide](https://developers.google.com/nest/device-access/api/doorbell) | [Display guide](https://developers.google.com/nest/device-access/api/display) |
  
-**Note:** As of this writing, supported Nest devices do not include Nest Protects. 
+**Note:** As of this writing, supported devices do not include Nest Protects. 
 
 ***
-**2.** The 
+**2.** The Nest Device Access binding is under development.  It has been tested with thermostats; other API supported devices (camera and doorbell) are implemented but still require additional testing.  
+
+**3.** The good news is that there is a plan to port this binding to OpenHAB 3. Until this is complete, these instructions assume you will install this binding in a stable V2 release of openHAB.
 
 
 ### Markdown
