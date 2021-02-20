@@ -25,9 +25,10 @@ Information on migrating your Nest account can be found here - [FAQs about accou
 
 **4.** Finally some basic assumptions to be sure you are prepared to move forward:
 - Strongly recommend you have an environment you can test with
-  - You have a basic understanding of how to read the logs, debug and help test/troubleshoot
-- Basic understanding of linux command line interface (CLI)
-  - Ability to execute commands on your system 
+- You will need to have a basic understanding of how to read the logs, debug and be willing help test/troubleshoot
+- Provide feedback about your experience on the openHab Community forum for this topic
+- Basic understanding of Linux command line interface (CLI)
+  - Access and ability to execute commands on your system 
   - Setting up the SDM API requires you to execute Curl commands to retrieve/refresh authorization keys and tokens
   - You will want to execute Curl commands to test access to your enabled devices and view their settings
 
