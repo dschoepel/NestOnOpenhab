@@ -9,9 +9,11 @@ This guide is intended to document the steps needed to enable this API so that i
 **1.** In order to use the SDM API, you will need to enable access to each of your supported devices.  If you are currently using the [OpenHAB Nest Binding](https://www.openhab.org/addons/bindings/nest/) and "Works With Nest" to connect your devices to openHAB, you would need to leave that program and migrate your Nest account to a Google account (i.e. your devices to the Google account). 
  
 **Device Support List**
-| Nest Thermostat       | Nest Cam            | Nest Hello Doorbell  | Nest Hub Max        | Nest Protect      |
-| --------------------- | ------------------- | -------------------- | --------------------| ----------------- |
-| ![Thermostat](/doc/device-thermostat_480.png) | ![Camera](/doc/device-camera_480.png) | ![Hello](/doc/device-hello_480.png) | ![Hub](/doc/device-hub-max_480.png) | ![Protect](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyb2Ln3XrPyxBwSG4atQA7Az2sIqGdHgBMgmqMK2wJNH0qCgq0tq-CW0OKWDknOmKvIFF0Y728eNc&usqp=CAc)
+| [Nest Thermostat](https://developers.google.com/nest/device-access/api/thermostat)| [Nest Cam](https://developers.google.com/nest/device-access/api/camera) | [Nest Hello Doorbell](https://developers.google.com/nest/device-access/api/doorbell) | [Nest Hub Max](https://developers.google.com/nest/device-access/api/display)|
+| --------------------- | ------------------- | -------------------- | --------------------|
+| ![Thermostat](/doc/device-thermostat_480.png) | ![Camera](/doc/device-camera_480.png) | ![Hello](/doc/device-hello_480.png) | ![Hub](/doc/device-hub-max_480.png) |
+| Read state and change thermostat modes and setpoints. | Access camera livestreams and camera events | Know when the doorbell is pressed and see the related camera snapshot. | Access camera features of the display, such as livestreams and camera events. |
+| [Thermostat guide](https://developers.google.com/nest/device-access/api/thermostat) | [Camera guide](https://developers.google.com/nest/device-access/api/camera) | [Doorbell guide](https://developers.google.com/nest/device-access/api/doorbell) | [Display guide](https://developers.google.com/nest/device-access/api/display) |
  
  
    ![Supported Devices](/doc/NestSupportedDevices.jpg)
