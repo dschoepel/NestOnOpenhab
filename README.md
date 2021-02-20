@@ -19,7 +19,6 @@ Information on migrating your Nest account can be found here - [FAQs about accou
  
 > **Note:** As of this writing, supported devices do not include Nest Protects. 
 
-***
 **2.** The Nest Device Access binding is under development.  It has been tested with thermostats; other API supported devices (camera and doorbell) are implemented but still require additional testing.  
 
 **3.** The good news is that there is a plan to port this binding to OpenHAB 3. Until this is complete, these instructions assume you will install this binding in a stable V2 release of openHAB.
