@@ -17,7 +17,7 @@ Information on migrating your Nest account can be found here - [FAQs about accou
 | Read state and change thermostat modes and setpoints. | Access camera livestreams and camera events | Know when the doorbell is pressed and see the related camera snapshot. | Access camera features of the display, such as livestreams and camera events. |
 | [Thermostat guide](https://developers.google.com/nest/device-access/api/thermostat) | [Camera guide](https://developers.google.com/nest/device-access/api/camera) | [Doorbell guide](https://developers.google.com/nest/device-access/api/doorbell) | [Display guide](https://developers.google.com/nest/device-access/api/display) |
  
-**Note:** As of this writing, supported devices do not include Nest Protects. 
+> **Note:** As of this writing, supported devices do not include Nest Protects. 
 
 ***
 **2.** The Nest Device Access binding is under development.  It has been tested with thermostats; other API supported devices (camera and doorbell) are implemented but still require additional testing.  
