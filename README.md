@@ -6,12 +6,18 @@ This guide is intended to document the steps needed to enable this API so that i
 
 ##  Considerations: The Google SDM API with Nest Device Access Binding
 
-- In order to use the SDM API, you will need to enable access to each of your supported devices.  If you are currently using the [OpenHAB Nest Binding](https://www.openhab.org/addons/bindings/nest/) and "Works With Nest" to connect your devices to openHAB, you would need to leave that program and migrate your Nest account to a Google account (i.e. your devices to the Google account).  
-
-> ![Supported Devices](/doc/NestSupportedDevices.jpg)
+**1.** In order to use the SDM API, you will need to enable access to each of your supported devices.  If you are currently using the [OpenHAB Nest Binding](https://www.openhab.org/addons/bindings/nest/) and "Works With Nest" to connect your devices to openHAB, you would need to leave that program and migrate your Nest account to a Google account (i.e. your devices to the Google account). 
+ 
+| Nest Thermostat       | Nest Cam            | Nest Hello Doorbell  | Nest Hub Max        | Nest Protect      |
+| --------------------- | ------------------- | -------------------- | --------------------| ----------------- |
+| ![Thermostat](/doc/device-thermostat_480.png) | ![Camera](/doc/device-camera_480.png) | ![Hello](/doc/device-hello_480.png) | ![Hub](/doc/device-hub-max_480.png) | ![Protect](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyb2Ln3XrPyxBwSG4atQA7Az2sIqGdHgBMgmqMK2wJNH0qCgq0tq-CW0OKWDknOmKvIFF0Y728eNc&usqp=CAc)
+ 
+ 
+   ![Supported Devices](/doc/NestSupportedDevices.jpg)
 **Note:** As of this writing, supported Nest devices do not include Nest Protects. 
 
-- The 
+***
+**2.** The 
 
 
 ### Markdown
