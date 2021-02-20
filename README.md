@@ -4,7 +4,7 @@ Google announced their [Device Access Program](https://developers.google.com/nes
 
 This guide is intended to document the steps needed to enable this API so that it can be connected to the [NestDeviceAcces Binding](https://github.com/bhigg-code/openhab-addons/tree/dev/bundles/org.openhab.binding.nestdeviceaccess).
 
-## Enabling the Google SDM API with Nest Device Access Binding Consideratins
+##  Considerations: Enabling the Google SDM API with Nest Device Access Binding
 
 - In order to use the SDM API, you will need to enable access to each of your supported devices.  If you are currently using the OpenHab Nest binding and "Works With Nest" to connect your devices to openHab, you would need to leave that program and migrate your Nest account to a Google account (i.e. your devices to the Google account).  
 
