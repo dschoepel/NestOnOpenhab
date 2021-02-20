@@ -15,8 +15,6 @@ This guide is intended to document the steps needed to enable this API so that i
 | Read state and change thermostat modes and setpoints. | Access camera livestreams and camera events | Know when the doorbell is pressed and see the related camera snapshot. | Access camera features of the display, such as livestreams and camera events. |
 | [Thermostat guide](https://developers.google.com/nest/device-access/api/thermostat) | [Camera guide](https://developers.google.com/nest/device-access/api/camera) | [Doorbell guide](https://developers.google.com/nest/device-access/api/doorbell) | [Display guide](https://developers.google.com/nest/device-access/api/display) |
  
- 
-   ![Supported Devices](/doc/NestSupportedDevices.jpg)
 **Note:** As of this writing, supported Nest devices do not include Nest Protects. 
 
 ***
