@@ -8,10 +8,10 @@ This guide is intended to document the steps needed to enable this API so that i
 
 - In order to use the SDM API, you will need to enable access to each of your supported devices.  If you are currently using the [OpenHAB Nest Binding](https://www.openhab.org/addons/bindings/nest/) and "Works With Nest" to connect your devices to openHAB, you would need to leave that program and migrate your Nest account to a Google account (i.e. your devices to the Google account).  
 
-![Supported Devices](/doc/NestSupportedDevices.jpg)
+> ![Supported Devices](/doc/NestSupportedDevices.jpg)
 **Note:** As of this writing, supported Nest devices do not include Nest Protects. 
 
-2. The 
+- The 
 
 
 ### Markdown
