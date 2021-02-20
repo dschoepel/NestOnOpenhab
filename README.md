@@ -1,12 +1,12 @@
-# Nest On Openhab - Step-By Step Guide
+# Nest On openHAB - Step-By Step Guide
 
-Google announced their [Device Access Program](https://developers.google.com/nest/device-access) (September 2020) that allows users to access, control, and manage Google Nest devices using the Smart Device Management (SDM) API. SDM is replacement for the [Works With Nest](https://blog.google/products/google-nest/updates-works-with-nest/) program that was "retired" August 31, 2019 and no longer supported by Google as part of their acquisition of Nest.   
+Google announced the availability of their [Device Access Program](https://developers.google.com/nest/device-access) (September 2020) that allows users to access, control, and manage Google Nest devices using the Smart Device Management (SDM) API. The SDM API is the replacement for the [Works With Nest](https://blog.google/products/google-nest/updates-works-with-nest/) program that was "retired" August 31, 2019 and no longer supported by Google as part of their acquisition of Nest.   
 
 This guide is intended to document the steps needed to enable this API so that it can be connected to the [NestDeviceAcces Binding](https://github.com/bhigg-code/openhab-addons/tree/dev/bundles/org.openhab.binding.nestdeviceaccess).
 
 ##  Considerations: The Google SDM API with Nest Device Access Binding
 
-- In order to use the SDM API, you will need to enable access to each of your supported devices.  If you are currently using the [OpenHab Nest Binding](https://www.openhab.org/addons/bindings/nest/) and "Works With Nest" to connect your devices to openHab, you would need to leave that program and migrate your Nest account to a Google account (i.e. your devices to the Google account).  
+- In order to use the SDM API, you will need to enable access to each of your supported devices.  If you are currently using the [OpenHAB Nest Binding](https://www.openhab.org/addons/bindings/nest/) and "Works With Nest" to connect your devices to openHAB, you would need to leave that program and migrate your Nest account to a Google account (i.e. your devices to the Google account).  
 
 ![Supported Devices](/doc/NestSupportedDevices.jpg)
 **Note:** As of this writing, supported Nest devices do not include Nest Protects. 
