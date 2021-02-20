@@ -46,7 +46,8 @@ If you have not already done this, follow the link to the Device Access Console 
 >Register in the Device Access Console, if you haven't already: [Go to the Device Access Console](https://console.nest.google.com/device-access)
 
 Once you have registered you should have access to the Console and see a "card" to add a new project.  So far so good...
-![Device Access Console](/doc/Device-Access-Console.png)
+
+![Device Access Console](/doc/Device-Access-Console-1.png)
 
 ### Markdown
 
