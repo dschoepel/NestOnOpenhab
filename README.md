@@ -6,7 +6,7 @@ This guide is intended to document the steps needed to enable this API so that i
 
 ##  Considerations: The Google SDM API with Nest Device Access Binding
 
-**1.** In order to use the SDM API, you will need to enable access to each of your supported devices.  If you are currently using the [OpenHAB Nest Binding](https://www.openhab.org/addons/bindings/nest/) and "Works With Nest" to connect your devices to openHAB, you would need to leave that program and migrate your Nest account to a Google account (i.e. your devices to the Google account). 
+**1.** In order to use the SDM API, you will need to enable access to each of your supported devices.  If you are currently using the [OpenHAB Nest Binding](https://www.openhab.org/addons/bindings/nest/) and "Works With Nest" to connect your devices to openHAB, you would need to leave that program and migrate your Nest account to a Google account (i.e. your devices to the Google account). _Once you migrate accounts, this cannot be un-done!_
 
 Information on migrating your Nest account can be found here - [FAQs about accounts for the Nest app](https://support.google.com/googlenest/answer/9297676?co=GENIE.Platform%3DiOS&hl=en&oco=0#accountmigration&accountmigration1&#accountmigration2&#accountmigration3&zippy=%2Chow-do-i-migrate-my-account).  Look for the FAQ titled "Migrating your Nest Account to a Google Account" and expand the FAQ to find the sub-topic titled "How do I migrate my account?"
  
@@ -21,7 +21,15 @@ Information on migrating your Nest account can be found here - [FAQs about accou
 
 **2.** The Nest Device Access binding is under development.  It has been tested with thermostats; other API supported devices (camera and doorbell) are implemented but still require additional testing.  
 
-**3.** The good news is that there is a plan to port this binding to OpenHAB 3. Until this is complete, these instructions assume you will install this binding in a stable V2 release of openHAB.
+**3.** The good news is that there is a plan to port this binding to OpenHAB 3. Until this is complete, these instructions assume you will install the NestDeviceAccess binding in a stable V2 release of openHAB.
+
+**4.** Finally some basic assumptions to be sure you are prepared to move forward:
+- Strongly recommend you have an environment you can test with
+  - You have a basic understanding of how to read the logs, debug and help test/troubleshoot
+- Basic understanding of linux command line interface (CLI)
+  - Ability to execute commands on your system 
+  - Setting up the SDM API requires you to execute Curl commands to retrieve/refresh authorization keys and tokens
+  - You will want to execute Curl commands to test access to your enabled devices and view their settings
 
 
 ### Markdown
