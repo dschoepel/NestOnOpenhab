@@ -47,7 +47,7 @@ If you have not already done this, follow the link to the Device Access Console 
 
 Once you have registered you should have access to the Console and see a "card" to add a new project.  So far so good...
 
-![Device Access Console](/doc/Device-Access-Console-1.png)
+![Device Access Console](/doc/Device-Access-Console-1_250.png)
 
 ### Markdown
 
