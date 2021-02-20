@@ -49,6 +49,8 @@ Once you have registered you should have access to the Console and see a "card" 
 
 ![Device Access Console](/doc/Device-Access-Console-1_250.png)
 
+## Step 2.0 - Activate a Supported Nest Device with a Google Account
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
