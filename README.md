@@ -59,6 +59,10 @@ Once you have registered you should have access to the Console and see a "card" 
 
 ## Step 2.0 - Activate a Supported Nest Device with a Google Account
 
+## Step 3.0 - Create a Google Cloud Platform (GCP) Project
+
+## Step 4.0 - Create a Device Access Project to Receive a Project ID
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
