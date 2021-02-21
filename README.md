@@ -38,7 +38,7 @@ The majority of this content is consolidated from the Google sites that walk you
 
 The configuration for NestDeviceAccess binding holds a number of parameters/settings that are needed to in order to discover and communicate with your Nest devices.  These parameters are stored in a file called `nestdeviceaccess.cfg` and placed in the services folder in your openHAB system.  The table below lists those parameters and identifies which of the steps below explain how to set up/determine that information.
 
-**Nest Device Access Configuration File**
+**Nest Device Access Configuration File Settings**
 | Parameter | Description | Step |
 | --------- | ----------- | ---- |
 |projectId  | is the Google project provided through the project creation process | [Step 4.0](https://github.com/dschoepel/NestOnOpenhab/blob/main/README.md#step-40---create-a-device-access-project-to-receive-a-project-id) |
