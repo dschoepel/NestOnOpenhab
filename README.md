@@ -32,6 +32,8 @@ Information on migrating your Nest account can be found here - [FAQs about accou
   - Setting up the SDM API requires you to execute Curl commands to retrieve/refresh authorization keys and tokens
   - You will want to execute Curl commands to test access to your enabled devices and view their settings
 
-### Support or Contact
+### Step-by-Step Instructions
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Head on over to the [**Wiki**](https://github.com/dschoepel/NestOnOpenhab/wiki) for the detailed instructions.  
+
+My intent is to improve/keep this information up to-date.  Constructive feedback is always welcome and can be provided on openHab's Community forum for this [Topic](https://community.openhab.org/t/google-nest-device-access-console-now-available/105404).
