@@ -36,6 +36,14 @@ Information on migrating your Nest account can be found here - [FAQs about accou
 
 The majority of this content is consolidated from the Google sites that walk you through the SDM setup steps to enable the API. These instructions will follow Google's outline and will hopefully remove some of the head scratching I went through trying to complete each step.
 
+The configuration for NestDeviceAccess binding holds a number of parameters/settings that are needed to in order to discover and communicate with your Nest devices.  These parameters are stored in a file called `nestdeviceaccess.cfg` and placed in the services folder in your openHAB system.  The table below lists those parameters and identifies which of the steps below explain how to set up/determine that information.
+
+**Nest Device Access Configuration File**
+| Parameter | Description | Step |
+| --------- | ----------- | ---- |
+|projectId  | is the Google project provided through the project creation process | Step 4.0 |
+|clientId | is the Google clientId for your application | Step x.0 | 
+
 ### Step 1.0 - Register for Device Access
 If you have not already done this, follow the link to the Device Access Console below.  You will be setting up a device access sandbox account, and Yes, there is a one-time fee of $5.00 USD to set up device access (not unreasonable).  
 
