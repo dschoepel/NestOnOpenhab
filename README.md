@@ -41,7 +41,7 @@ The configuration for NestDeviceAccess binding holds a number of parameters/sett
 **Nest Device Access Configuration File**
 | Parameter | Description | Step |
 | --------- | ----------- | ---- |
-|projectId  | is the Google project provided through the project creation process | Step 4.0 |
+|projectId  | is the Google project provided through the project creation process | [Step 4.0](https://github.com/dschoepel/NestOnOpenhab/blob/main/README.md#step-40---create-a-device-access-project-to-receive-a-project-id) |
 |clientId | is the Google clientId for your application | Step x.0 | 
 
 ### Step 1.0 - Register for Device Access
