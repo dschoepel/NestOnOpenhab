@@ -34,6 +34,6 @@ Information on migrating your Nest account can be found here - [FAQs about accou
 
 ### Step-by-Step Instructions
 
-Head on over to the [**Wiki**](https://github.com/dschoepel/NestOnOpenhab/wiki) for the detailed instructions.  
+`Head on over to the [**Wiki**](https://github.com/dschoepel/NestOnOpenhab/wiki) for the detailed instructions.`  
 
 My intent is to improve/keep this information up to-date.  Constructive feedback is always welcome and can be provided on openHab's Community forum for this [Topic](https://community.openhab.org/t/google-nest-device-access-console-now-available/105404).
