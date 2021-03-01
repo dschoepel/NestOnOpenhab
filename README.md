@@ -1,4 +1,4 @@
-# Nest On openHAB - Step-By Step Guide
+# Nest On openHAB - Step By Step Guide
 
 Google announced the availability of their [Device Access Program](https://developers.google.com/nest/device-access) (September 2020) that allows users to access, control, and manage Google Nest devices using the Smart Device Management (SDM) API. The SDM API is the replacement for the [Works With Nest](https://blog.google/products/google-nest/updates-works-with-nest/) program that was "retired" August 31, 2019 and no longer supported by Google as part of their acquisition of Nest.   
 
